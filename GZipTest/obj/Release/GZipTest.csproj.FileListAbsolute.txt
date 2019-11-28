@@ -1,0 +1,6 @@
+c:\Users\ripmag\Downloads\Тестовое задание\GZipTest\bin\Release\GZipTest.exe.config
+c:\Users\ripmag\Downloads\Тестовое задание\GZipTest\bin\Release\GZipTest.exe
+c:\Users\ripmag\Downloads\Тестовое задание\GZipTest\bin\Release\GZipTest.pdb
+c:\Users\ripmag\Downloads\Тестовое задание\GZipTest\obj\Release\GZipTest.csproj.CoreCompileInputs.cache
+c:\Users\ripmag\Downloads\Тестовое задание\GZipTest\obj\Release\GZipTest.exe
+c:\Users\ripmag\Downloads\Тестовое задание\GZipTest\obj\Release\GZipTest.pdb
